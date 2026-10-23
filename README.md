@@ -1,5 +1,5 @@
-# ddtql-go
-Go toolkit for DTQL: parser, AST, validation, linting, formatting, and query execution.
+# tugql-go
+Go toolkit for TugQL: parser, AST, validation, linting, formatting, and query execution.
 
 ## Used in DataTug development
 
